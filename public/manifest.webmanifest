@@ -1,0 +1,18 @@
+{
+  "id": "/mezhpar/",
+  "name": "МЕЖПАР — пространство группы",
+  "short_name": "МЕЖПАР",
+  "description": "Расписание, задания и жизнь учебной группы.",
+  "lang": "ru",
+  "start_url": "/mezhpar/",
+  "scope": "/mezhpar/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#f5f5f2",
+  "theme_color": "#f5f5f2",
+  "categories": ["education", "social"],
+  "icons": [
+    { "src": "/mezhpar/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
